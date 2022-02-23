@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Surviving The Barren Plateau in Variational Quantum
+  Circuits with Bayesian Learning Initialization
+message: >-
+  For citations to this repository, you can use the
+  this file .
+type: software
+authors:
+  - given-names: Ali
+    email: rad@umd.edu
+    affiliation: >-
+      Joint Quantum Institute and Department of
+      Physics, University of Maryland
+    family-names: Rad
+  - given-names: 'Alireza '
+    affiliation: >-
+      Pritzker School of Molecular Engineering,
+      University of Chicago
+    email: seif@umd.edu
+    family-names: 'Seif '
+  - given-names: 'Norbert '
+    affiliation: >-
+      Joint Quantum Institute and Department of
+      Physics, University of Maryland, Duke Quantum
+      Center and Department of Physics, Duke
+      University 
+    email: linke@umd.edu
+    family-names: 'M. Linke '
