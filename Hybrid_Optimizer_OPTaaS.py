@@ -1,6 +1,4 @@
-#Daiwei Zhu Aug-9-2018
-#A general framework for hybrid optimization using gradient descent (for now, at least)
-__author__="Daiwei Zhu"
+#__author__="Daiwei Zhu, Ali Rad"
 
 
 import numpy as np
@@ -14,7 +12,7 @@ import datetime
 import time
 start=time.time()
 # Connect to your OPTaaS server with your API Key
-client = OPTaaSClient('https://edu.optaas.mindfoundry.ai', 'ieng8oonieseicohm6El')
+client = OPTaaSClient('https://edu.optaas.mindfoundry.ai', Your Key)
 
 
 def KL_Divergence(state1,state0):
